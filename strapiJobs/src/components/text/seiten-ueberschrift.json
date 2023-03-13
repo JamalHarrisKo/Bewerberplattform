@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_text_seiten_ueberschrifts",
+  "info": {
+    "displayName": "Seiten Überschrift",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Hauptberschrift": {
+      "type": "string"
+    },
+    "subheader": {
+      "type": "string"
+    }
+  }
+}
